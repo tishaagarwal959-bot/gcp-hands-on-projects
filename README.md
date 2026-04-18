@@ -1,2 +1,2 @@
 # gcp-hands-on-projects
-Google Cloud Platform Hand-on-workings to learn and implement in real-work. Gaining skills .
+Google Cloud Platform Hands-on-working experience , learning  and implementing  skills in real-life.
