@@ -1,0 +1,3 @@
+- BigQuery ML allows building ML models using SQL
+- No separate ML infrastructure required
+- Useful for quick data analysis
